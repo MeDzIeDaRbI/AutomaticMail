@@ -19,6 +19,7 @@ def openMail():
     x, y = pg.center(location)
     pg.click(x, y)
     #
+    
     time.sleep(5)
     #
     location = pg.locateOnScreen(absPath + '/pics/SupComMail.png')
