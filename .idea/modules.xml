@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AutomaticBlogger/.idea/AutomaticBlogger.iml" filepath="$PROJECT_DIR$/../AutomaticBlogger/.idea/AutomaticBlogger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/AutomaticMail.iml" filepath="$PROJECT_DIR$/.idea/AutomaticMail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Flask-Blogging-master/.idea/Flask-Blogging-master.iml" filepath="$PROJECT_DIR$/../Flask-Blogging-master/.idea/Flask-Blogging-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ImageSearchEngine/.idea/ImageSearchEngine.iml" filepath="$PROJECT_DIR$/../ImageSearchEngine/.idea/ImageSearchEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Portfolio/.idea/Portfolio.iml" filepath="$PROJECT_DIR$/../Portfolio/.idea/Portfolio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ToolBox/.idea/ToolBox.iml" filepath="$PROJECT_DIR$/../ToolBox/.idea/ToolBox.iml" />
+      <module fileurl="file://D:/Projects/alloCineCrawl/.idea/alloCineCrawl.iml" filepath="D:/Projects/alloCineCrawl/.idea/alloCineCrawl.iml" />
+      <module fileurl="file://D:/Projects/pahoExtended/.idea/pahoExtended.iml" filepath="D:/Projects/pahoExtended/.idea/pahoExtended.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sickit/.idea/sickit.iml" filepath="$PROJECT_DIR$/../sickit/.idea/sickit.iml" />
+    </modules>
+  </component>
+</project>
